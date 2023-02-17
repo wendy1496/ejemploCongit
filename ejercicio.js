@@ -21,5 +21,5 @@ function diasDiferencia(diasDeDiferencia){
     }
     return diasDeDiferencia
 }
-
+console.log("HOLA MUNDO")
 correrArreglo();
